@@ -11,6 +11,8 @@ rope = "*"
 [packages]
 requests = "*"
 pymysql = "*"
+elasticsearch = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"
