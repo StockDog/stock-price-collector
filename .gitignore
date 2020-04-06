@@ -130,3 +130,7 @@ dmypy.json
 
 # Editors
 .vscode/
+
+# AWS
+template.packaged.yaml
+requirements.txt
