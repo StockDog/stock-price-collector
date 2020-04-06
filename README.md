@@ -11,8 +11,8 @@ Collects stock values of tickers that are in all active leagues and stores them 
 
 ## Deploying
 
-1. chmod +x deploy.sh
-1. ./deploy.sh
+1. `chmod +x deploy.sh`
+1. `./deploy.sh`
 
 or
 
